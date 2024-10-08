@@ -4,7 +4,7 @@ source = ""
 
 
 if __name__ == "__main__":
+    #Lex 
     #Parse
-    #Tokenize 
     #Emitt
     #:)
